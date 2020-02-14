@@ -93,7 +93,7 @@ public class TopAlignedImageView extends ImageView {
         setupScaleMatrix(getWidth(), getHeight());
     }
 
-    // We do not have to overide setImageBitmap because it calls 
+    // We do not have to overide setImageBitmap because it calls
     // setImageDrawable method
 
 }
